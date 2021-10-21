@@ -11,5 +11,5 @@ public class Constant {
     public static final int MAX_PLATINUM_USER_BLOCKED_CONTACTS = 100_000;
 
     public static final int MAX_COUNT_TO_MARK_GLOBAL_BLOCKED = 1;
-    public static final int MAX_GLOBAL_SPAM_COUNT = 100_000_000;
+    public static final int MAX_GLOBAL_SPAM_COUNT = 1000;
 }
